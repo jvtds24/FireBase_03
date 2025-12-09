@@ -206,4 +206,4 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 ## 👥 Autores
 
-- **Alexandre Santos** - _Desenvolvimento Inicial_ - [SeuGitHub](https://github.com/alexsant22)
+- **João Vitor Pinheiro** - _Desenvolvimento Inicial_ - [SeuGitHub](https://github.com/jvpinheiro1)
